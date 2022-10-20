@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MainForm">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="5" vgap="5">
+    <constraints>
+      <xy x="20" y="20" width="623" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="72eec" binding="buttonsPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="1df32" class="javax.swing.JButton" binding="collapseButton">
+            <constraints/>
+            <properties>
+              <text value="Collapse"/>
+            </properties>
+          </component>
+          <component id="c7e6d" class="javax.swing.JButton" binding="expandButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="Expand"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="e02f0" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <alignmentX value="1.0"/>
+          <preferredSize width="500" height="20"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="54c" class="javax.swing.JLabel" binding="nameLabel">
+            <constraints/>
+            <properties>
+              <labelFor value=""/>
+              <text value="Name"/>
+            </properties>
+          </component>
+          <component id="a326c" class="javax.swing.JTextField" binding="nameTextField" default-binding="true">
+            <constraints/>
+            <properties>
+              <alignmentX value="1.0"/>
+              <enabled value="true"/>
+              <horizontalAlignment value="10"/>
+              <margin top="2" left="6" bottom="2" right="6"/>
+              <preferredSize width="137" height="30"/>
+              <text value=""/>
+            </properties>
+            <clientProperties>
+              <caretWidth class="java.lang.Integer" value="1"/>
+            </clientProperties>
+          </component>
+          <component id="ddef1" class="javax.swing.JLabel" binding="surnameLabel">
+            <constraints/>
+            <properties>
+              <text value="Surname"/>
+            </properties>
+          </component>
+          <component id="557e1" class="javax.swing.JTextField" binding="surnameTextField">
+            <constraints/>
+            <properties>
+              <enabled value="true"/>
+              <preferredSize width="137" height="30"/>
+            </properties>
+          </component>
+          <component id="ac501" class="javax.swing.JLabel" binding="patronymicLabel">
+            <constraints/>
+            <properties>
+              <text value="Patronymic"/>
+            </properties>
+          </component>
+          <component id="dcdbb" class="javax.swing.JTextField" binding="patronymicTextField">
+            <constraints/>
+            <properties>
+              <enabled value="true"/>
+              <preferredSize width="135" height="30"/>
+            </properties>
+          </component>
+          <component id="638c7" class="javax.swing.JLabel" binding="FIOLabel">
+            <constraints/>
+            <properties>
+              <text value="FIO"/>
+            </properties>
+          </component>
+          <component id="5b581" class="javax.swing.JTextField" binding="FIOTextField">
+            <constraints/>
+            <properties>
+              <autoscrolls value="true"/>
+              <focusable value="true"/>
+              <preferredSize width="430" height="30"/>
+            </properties>
+          </component>
+          <component id="29f7c" class="javax.swing.JLabel" binding="wrongFormatLabel">
+            <constraints/>
+            <properties>
+              <enabled value="true"/>
+              <text value="Wrong format! Please try again."/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

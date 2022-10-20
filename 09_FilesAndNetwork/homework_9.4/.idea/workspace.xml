@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="012a6ae2-b010-4c1d-bcc0-16ce6ee47cec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_9.5/src/main/resources/mosMetro.json" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_9.5/src/main/resources/mosMetro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_9.5/target/classes/mosMetro.json" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_9.5/target/classes/mosMetro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_Multithreading/ForkJoin/target/classes/SiteMap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../13_Multithreading/ForkJoin/target/classes/SiteMap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_Multithreading/ImageResizer/ImageResizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13_Multithreading/ImageResizer/ImageResizer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/controller/DefaultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/controller/DefaultController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/repository/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/java/main/service/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/controller/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/controller/DefaultController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/controller/TaskController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/controller/TaskController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/model/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/model/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/repository/TaskRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/repository/TaskRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/service/TaskService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/classes/main/service/TaskService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/test-classes/main/controller/AbstractIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/test-classes/main/controller/AbstractIntegrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/test-classes/main/controller/DefaultControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_SpringBootWebDevelopment/toDoList/target/test-classes/main/controller/DefaultControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19_Performance/VoteAnalyzer/VoteAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../19_Performance/VoteAnalyzer/VoteAnalyzer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19_Performance/VoteAnalyzer/res/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../19_Performance/VoteAnalyzer/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../19_Performance/VoteAnalyzer/src/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streams-assignments" beforeDir="false" afterPath="$PROJECT_DIR$/../../streams-assignments" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1pWOQYGiANISeycCel5QnEwUtQz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework_9.4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012a6ae2-b010-4c1d-bcc0-16ce6ee47cec" name="Default Changelist" comment="" />
+      <created>1615295364070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615295364070</updated>
+      <workItem from="1644929780945" duration="5281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
